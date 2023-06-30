@@ -2,7 +2,7 @@
 
 The COVID-19 pandemic has presented the world with unprecedented challenges, requiring comprehensive data analysis and visualization to better understand its impact. This portfolio project aims to address the problem of understanding the maximum infection rates during the pandemic, with a specific focus on Italy and Germany. Additionally, the project investigates the effects of lockdown measures implemented in these countries, which have played a crucial role in shaping their respective trajectories.
 
-## Problem Statement
+### Problem Statement
 The rapid spread of COVID-19 has led to a need for effective data analysis and visualization techniques to gain insights into the maximum infection rates across the globe. Specifically, this project aims to address the following questions:
 1.	What are the maximum infection rates observed worldwide, as well as in Italy and Germany?
 2.	How do the infection rates in Italy and Germany compare to the global maximum infection rates?
